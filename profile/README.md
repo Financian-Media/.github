@@ -11,16 +11,13 @@ Financian Media is a modular SaaS platform for content management and media proc
 - **financian-bootstrap** — Local development environment
 - **financian-packages** — Shared UI and API contracts
 
-## Architecture
-
-Admin → API Server → Media Service → AWS S3
-
 ## Tech Stack
 
 - Node.js
+- Express.js
 - TypeScript
 - Next.js
 - Python
 - PostgreSQL
-- Redis
+- Clickhouse
 - AWS S3
