@@ -19,5 +19,3 @@ Financian Media is a modular SaaS platform for content management and media proc
 - Next.js
 - Python
 - PostgreSQL
-- Clickhouse
-- AWS S3
